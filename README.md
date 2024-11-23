@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ronald John Villar</h1>
-<h3 align="center">A passionate full-stack developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm RJ</h1>
+<h3 align="center">A passionate full-stack developer from Philippines!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjvillar" alt="rjvillar" /></a> </p>
 
-- 🔭 I’m currently working on [GitHub website](rjvillar.github.io)
+<p align="left"> <a href="https://twitter.com/lowkeyyrj" target="blank"><img src="https://img.shields.io/twitter/follow/lowkeyyrj?logo=twitter&style=for-the-badge" alt="lowkeyyrj" /></a> </p>
 
-- 🌱 I’m currently learning **AI or Machine Learning, specifically NLP using Python**
+- 🔭 I’m currently working on a [GitHub website.](rjvillar.github.io)
+
+- 🌱 I’m currently learning **AI or Machine Learning, specifically NLP using NLTK Python.**
 
 - 👨‍💻 All of my projects are available at [rjvillar.github.io](rjvillar.github.io)
 
-- 📫 How to reach me **rjretritavillar@gmail.com**
+- 📫 How to reach me? **rjretritavillar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
