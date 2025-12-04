@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently improving on React + Express.js + Node.js<br>🎯 Goals: Find a full-time job<br>⚡ Self-taught</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently improving on React + Express.js + Node.js<br>🎯 Goal: AI Automation<br>⚡ Self-taught</p>
 
 ###
 
