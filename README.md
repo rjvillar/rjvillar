@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is RJ and I'm a Web Developer, from Philippines.</p>
+<p align="left">My name is RJ and I'm a Full-Stack Developer, from Philippines.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently improving on React + Express.js + Node.js<br>🎯 Goal: AI Automation<br>⚡ Self-taught</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently improving on AI Automation<br>🎯 Goal: Financial Stability<br>⚡ Self-taught</p>
 
 ###
 
